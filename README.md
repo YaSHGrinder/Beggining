@@ -1,0 +1,2 @@
+# Beggining
+A sample repository 
