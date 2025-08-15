@@ -1,2 +1,3 @@
 # Beggining
-A sample repository 
+A sample repository <br>
+My name is Yash Panchal <br>
